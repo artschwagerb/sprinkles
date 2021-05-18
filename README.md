@@ -1,4 +1,4 @@
-# Sprinkles - Sprinkler Controller
+# Sprinkles
 
 How hard can it really be to make a sprinkler controller?
 
